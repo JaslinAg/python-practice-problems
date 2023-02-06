@@ -14,7 +14,8 @@ def prune_tree(tree, keys_to_discard):
     Returns: (Tree) the pruned tree.
     '''
     
-    pass
+    
+
 
 
 #############################################################
